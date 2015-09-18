@@ -52,4 +52,6 @@ group :development do
 end
 
 gem 'puma'
-
+gem 'chef'
+gem 'knife-solo', '0.4.0'
+gem 'librarian-chef'
